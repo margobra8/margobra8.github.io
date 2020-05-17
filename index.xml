@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcos Gómez</title>
+    <link>https://margobra8.github.io/</link>
+    <description>Recent content on Marcos Gómez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 May 2020 19:04:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://margobra8.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my personal blog!</title>
+      <link>https://margobra8.github.io/posts/welcome/</link>
+      <pubDate>Sun, 17 May 2020 19:04:31 +0200</pubDate>
+      
+      <guid>https://margobra8.github.io/posts/welcome/</guid>
+      <description>Hello! This is my personal blog on my minimal website :)
+Here I will be posting interesting things related to projects I develop or to which I contribute.
+I&amp;rsquo;m also planning on expanding the language of my website to provide a Spanish option. Nonetheless, don&amp;rsquo;t expect to find here very technical info or news (well maybe some posts 🙃).
+Well, I hope you find interesting info navigating here!
+Have a nice time!</description>
+    </item>
+    
+  </channel>
+</rss>
