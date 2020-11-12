@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://me.marquitos.space/categories/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://me.marquitos.space/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://me.marquitos.space/categories/opini%C3%B3n/</loc>
+    <loc>https://me.marquitos.space/tags/opini%C3%B3n/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,12 +18,17 @@
   </url>
   
   <url>
+    <loc>https://me.marquitos.space/tags/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://me.marquitos.space/posts/wa-disney-y-los-monopolios/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://me.marquitos.space/tags/</loc>
+    <loc>https://me.marquitos.space/categories/</loc>
   </url>
   
 </urlset>
